@@ -1,0 +1,14 @@
+{
+  "name": "markdown-loader-jest",
+  "version": "1.0.0",
+  "description": "integration of markdown-loader package with jest ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Pincheira A. <g.pincheira.a@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-loader": "^2.0.1"
+  }
+}
