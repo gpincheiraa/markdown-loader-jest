@@ -1,6 +1,6 @@
 {
   "name": "markdown-loader-jest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "integration of markdown-loader package with jest ",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Gonzalo Pincheira A. <g.pincheira.a@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "html-loader": "^0.5.1",
     "markdown-loader": "^2.0.1"
   }
 }
