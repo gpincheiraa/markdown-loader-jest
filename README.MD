@@ -5,7 +5,7 @@
 
 ## Install
 ```
-npm install --save-dev github:gpincheiraa/markdown-loader-jest
+npm install --save-dev markdown-loader-jest
 ```
 ## Integration with jest
 
