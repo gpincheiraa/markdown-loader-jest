@@ -1,6 +1,6 @@
 {
   "name": "markdown-loader-jest",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "description": "integration of markdown-loader package with jest ",
   "main": "index.js",
   "scripts": {
